@@ -5,6 +5,5 @@ Hi there! This is an upload of my breathalyzer photo booth project, which uses t
 
 
 INCLUDED FILES:
-The C file has to be converted to machine code using the MAKEFILE by entering "make main" into the command line. It runs immediately after upload to the microprocessor.
-
+The C file has to be converted to machine code using the MAKEFILE by entering "make" into the command line when navigated into the folder containing the code. The program runs immediately in preapplication mode (flashing LEDs) after being uploaded to the microprocessor.
 The PDF explains how the device was made and how it performs, and also the materials needed to build it!
